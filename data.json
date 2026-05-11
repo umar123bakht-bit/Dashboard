@@ -1,0 +1,17 @@
+{
+  "date": "2026-05-11",
+  "updates": [
+    {
+      "category": "Marketing",
+      "text": "Launched the May Instagram campaign — first 24h reach is 12k."
+    },
+    {
+      "category": "Product",
+      "text": "Pricing-page redesign shipped to staging. Awaiting QA before prod."
+    },
+    {
+      "category": "Content",
+      "text": "Blog post on Q2 roadmap drafted — needs final pass tomorrow."
+    }
+  ]
+}
